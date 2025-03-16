@@ -14,3 +14,6 @@ git clone https://github.com/DemonZDev/FalconCP.git && cd FalconCP && npm instal
 
 - Discord server ```https://discord.com/invite/yMBRwnvFKF```
 - Creators Usernames ```lonely_woolf``` ```cyrusbye```
+
+### Credit
+- HydrenLabs
