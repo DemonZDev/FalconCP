@@ -1,18 +1,16 @@
-# Oversee Dashboard
+# FalconCP
 
-![Oversee Logo](https://raw.githubusercontent.com/hydren-dev/Oversee/refs/heads/main/oversee.webp)
-
-Oversee is a sleek and efficient dashboard designed for managing your resources with ease. While Discord login isn’t implemented yet, you can still enjoy a seamless experience managing your system.
+FalconCP is a free open source game management panel which can be installed most of the vps. It dont need docker to installed because it was managed by node.js child_process.
 
 ### Installation
 
-To install and start the Oversee dashboard, run the following commands:
+To install and start the FalconCP, run the following commands:
 
 ```bash
-git clone https://github.com/DemonZDev/Oversee.git && cd Oversee && npm install && npm run seed && npm run createUser && node .
+git clone https://github.com/DemonZDev/FalconCP.git && cd FalconCP && npm install && npm run seed && npm run createUser && node .
 ```
 
-### Notes
+### Contact
 
-- Stay tuned for updates as Discord login is in progress.
-- Created with ❤️ by **ma4z**.
+- Discord server ```https://discord.com/invite/yMBRwnvFKF```
+- Creators Usernames ```lonely_woolf``` ```cyrusbye```
